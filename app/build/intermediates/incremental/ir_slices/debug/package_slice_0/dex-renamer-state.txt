@@ -1,0 +1,4 @@
+#Sat Dec 22 21:39:40 EET 2018
+base.0=C\:\\Users\\Acer V17 Nitro\\AndroidStudioProjects\\Diyet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
